@@ -5,6 +5,7 @@ A simple [Flutter](https://flutter.dev/) application to view current weather sta
 ## Disclaimer
 
 You need to use your own OpenWeather API key in the `services\weather.dart` file.
+
 More info at [OpenWeather website](https://openweathermap.org/appid).
 
 ```dart
